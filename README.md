@@ -5,6 +5,7 @@ Projeto de conclusão de Disciplina "Técnicas de programação" da UFCG
 
 Este projeto consiste no desenvolvimento de um sistema de alarme utilizando um **sensor de movimento ultrassônico (HC-SR04)** integrado a um **Arduino UNO**. O sistema é capaz de detectar a presença de intrusos e emitir **alertas sonoros e visuais**, além de possibilitar a **ativação/desativação manual** via botão.
 
+![imagem do projeto](homeSecurity.jpeg)
 ## 🧠 Visão Geral
 
 O sistema foi projetado para ser uma solução simples, eficaz e expansível para **segurança residencial e comercial**, podendo futuramente ser integrado com notificações remotas ou automação via internet.
